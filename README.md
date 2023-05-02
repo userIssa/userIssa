@@ -1,4 +1,10 @@
 ### Hi there 👋
+👋 Hi, I’m @userIssa, a Software Engineering Student at Babcock University
+👀 I’m interested in MobileApp Development, Phyton/Bash Scripting and Ethical Hacking
+💞️ I’m looking foward to collaborating and working on anything that would help me become better.
+📫 I reply faster to mails... toluwanimioderinde@gmail.com.
+😄 Pronouns: he/him
+🌱 I’m currently learning React Native
 
 <!--
 **userIssa/userIssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
