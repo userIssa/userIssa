@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Issa</h1>
 <h3 align="center">a human techie.</h3>
 
-<!--
+
 ## Portfolio
-* [Portfolio](https://joshua-ubani-wokoma-portfolio.netlify.app/)
--->
+* [Portfolio](https:/tolu-oderinde-portfolio.netlify.app/)
+
 
 ### Mini Projects
 
