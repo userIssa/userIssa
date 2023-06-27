@@ -3,7 +3,7 @@
 
 
 ## Portfolio
-* [Portfolio](https:/tolu-oderinde-portfolio.netlify.app/)
+* [Portfolio](https://tolu-oderinde-portfolio.netlify.app/)
 
 
 ### Mini Projects
